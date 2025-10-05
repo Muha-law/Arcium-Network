@@ -299,7 +299,7 @@ If successful, you'll see confirmation that your node accounts are initialized o
 
 ---
 
-## Optional: Use Better RPC Providers
+## Recommended: Use Better RPC Providers
 
 For improved reliability, consider using dedicated RPC providers instead of the default public endpoint:
 
@@ -652,7 +652,7 @@ Once your node is running successfully:
 
 ## Credits
 
-Guide created by [muhalaw](https://x.com/muhalaw)
+Guide created by [muhalaw](https://x.com/muhalaw) for Arcium Community
 
 **Contributions welcome!** Feel free to submit PRs to improve this guide.
 
