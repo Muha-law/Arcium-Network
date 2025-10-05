@@ -36,6 +36,8 @@ ARX nodes are the computational backbone of Arcium's confidential computing infr
 | **CPU** | 12+ cores |
 | **Storage** | 50+ GB SSD (minimal storage needed) |
 | **Network** | Stable internet connection |
+| **GPU** | Currently not used |
+
 
 > **Note**: Storage requirements are minimal as ARX nodes don't store blockchain history. The primary resource requirement is RAM for MPC computations.
 
