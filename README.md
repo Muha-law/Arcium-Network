@@ -33,7 +33,7 @@ ARX nodes are the computational backbone of Arcium's confidential computing infr
 | Component | Requirement |
 |-----------|-------------|
 | **RAM** | 32 GB |
-| **CPU** | 4+ cores |
+| **CPU** | 12+ cores |
 | **Storage** | 50+ GB SSD (minimal storage needed) |
 | **Network** | Stable internet connection |
 
